@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/api/.vs
+/api/camrentalapi/camrentalapi/bin/Debug/netcoreapp3.1
+/api/camrentalapi/camrentalapi/obj
